@@ -8,7 +8,7 @@ A copy button is also present to copy the created password to clipboard.
 
 Notable trouble-shooting/learning moments included:
 - Using random.shuffle (list exclusive function) to create a function that can shuffle strings
-- using a separate variable to grab separate ranges from the ASCII table (as to my knowledge random.randint only accepts one range)
+- Using a separate variable to grab separate ranges from the ASCII table (as to my knowledge random.randint only accepts one range)
 - Making the password variable global (so that the copy function would grab the updated password post-button press,
 instead of being restrincted to the empty variable)
 - Learning tkinter to create a functional GUI
