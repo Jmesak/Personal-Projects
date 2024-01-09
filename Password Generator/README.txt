@@ -1,6 +1,7 @@
 Password Generator Project
 
 password_gen.exe is present in the dist folder
+
 Function:
 Via a GUI, at the press of a button a unique and random 11 character password is generated that includes 3 upper-case letters, 3 lower-case letters, 3 numbers, and 2 special characters.
 A copy button is also present to copy the created password to clipboard.
