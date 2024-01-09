@@ -10,7 +10,7 @@ Notable trouble-shooting/learning moments included:
 - Using random.shuffle (list exclusive function) to create a function that can shuffle strings
 - Using a separate variable to grab separate ranges from the ASCII table (as to my knowledge random.randint only accepts one range)
 - Making the password variable global (so that the copy function would grab the updated password post-button press,
-instead of being restrincted to the empty variable)
+as it was otherwise unable to detect generated passwords)
 - Learning tkinter to create a functional GUI
 - Learning pyinstaller to create a .exe file from my .py project
     - Using --noconsole so cmd doesn't launch
