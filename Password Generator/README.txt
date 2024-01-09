@@ -14,6 +14,4 @@ as it was otherwise unable to detect generated passwords)
 - Learning tkinter to create a functional GUI
 - Learning pyinstaller to create a .exe file from my .py project
     - Using --noconsole so cmd doesn't launch
-    - Figuring out .ico files and using pyinstaller to replace the default .exe icon
-- Uploading to my github repo (I haven't done this since I took MBB 243 - Intro Data Analysis for Molecular Bio & Biochem)
-via the terminal
+    - Figuring out .ico files and using pyinstaller to replace the default .exe ico
