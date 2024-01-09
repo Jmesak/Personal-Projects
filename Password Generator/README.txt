@@ -2,7 +2,10 @@ Password Generator Project
 
 This is my first personal coding project (non-school).
 
-An 11 character password is generated that includes 3 upper-case letters, 3 lower-case letters, 3 numbers, and 2 special characters.
+At the press of a button a unique and random 11 character password is generated that includes 3 upper-case letters, 
+3 lower-case letters, 3 numbers, and 2 special characters.
+
+A copy button is also present to copy the created password to clipboard.
 
 Notable trouble-shooting/learning moments included:
 - Using random.shuffle (list exclusive function) to create a function that can shuffle strings
