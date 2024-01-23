@@ -16,6 +16,8 @@ A basic and low-resource intensive GUI that displays real-time CPU, GPU, and RAM
 - Making the GUI and graphs look nicer
 - Keep default domain and range, but maybe make it adjustable in GUI (graph data time limit and option to switch from static 0-100 y-axis to a dynamic one)
 - Display CPU, RAM, and GPU model; as well as showing threads/cores, ram amount, gpu vram, etc.
+- Button to log data (benchmarking), input for time to record, compute/output min/max/mean usage + graph
+- Light/Dark Mode
 
 ```python
 #Jonathan Mesak
