@@ -1,4 +1,5 @@
 # Resource Monitor Project
+![image](https://github.com/Jmesak/Personal-Projects/assets/33903604/d3ccac96-2870-49a0-a826-1be23936a021)
 
 ResourceMonitor.exe is present in the dist folder
 
