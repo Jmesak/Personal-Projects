@@ -9,7 +9,7 @@ A basic and low-resource intensive GUI that displays real-time CPU, GPU, and RAM
 **Notable trouble-shooting/learning moments included:**
 - Learning additional tkinter utility, notably FigureCanvasTkAgg from matplotlib.backends.backend_tkagg
 - Pulling cpu and RAM usage data via psutil, and gpu usage with pynvml (I have an nvidia gpu, idk how this would fair with other gpus)
-- Converting psutil data into graphs with matplot.lib
+- Converting psutil/pynvml data into graphs with matplot.lib
 - Verifying results with Windows utilities
 
 **Additions for Future Versions**
